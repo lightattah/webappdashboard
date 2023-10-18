@@ -12,11 +12,11 @@ pip install streamlit plotly pandas
 After that, clone the github repo to your local machine:
 ```
 git clone https://github.com/lightattah/webappdashboard.git
-cd superstore-eda
+cd dashboard
 ```
 Run the streamlit application:
 ```
-streamlit run superstore_eda.py
+streamlit run dashboard.py
 ```
 
 ## Usage
