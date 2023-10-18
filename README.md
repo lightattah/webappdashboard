@@ -17,16 +17,16 @@ cd superstore-eda
 Run the streamlit application:
 streamlit run superstore_eda.py
 
-##Usage
+## Usage
 Upload your Superstore dataset in CSV, TXT, XLSX, or XLS format by clicking the "Upload a file" button.
 Filter the data by selecting a date range, region, state, and city using the sidebar.
 Explore various visualizations and data tables to analyze sales and profit information.
 Download data tables in CSV format for further analysis.
 
-##Features
+## Features
 Data filtering by date, region, state, and city.
 
-##Visualizations:
+## Visualizations:
 Category-wise sales bar chart.
 Region-wise sales pie chart.
 Time series analysis line chart.
@@ -35,10 +35,10 @@ Segment-wise and category-wise sales pie charts.
 Scatter plot to explore the relationship between sales and profits.
 Downloadable data tables for further analysis.
 
-##Author
+## Author
 Light Attah
 
-##Acknowledgments
+## Acknowledgments
 This project was created using Streamlit for the web application and Plotly for interactive visualizations.
 
 
