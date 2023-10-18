@@ -8,14 +8,16 @@ To run the Superstore EDA application, make sure you have the required Python li
 
 ```bash
 pip install streamlit plotly pandas
-
+```
 After that, clone the github repo to your local machine:
-
+```
 git clone https://github.com/lightattah/webappdashboard.git
 cd superstore-eda
-
+```
 Run the streamlit application:
+```
 streamlit run superstore_eda.py
+```
 
 ## Usage
 Upload your Superstore dataset in CSV, TXT, XLSX, or XLS format by clicking the "Upload a file" button.
